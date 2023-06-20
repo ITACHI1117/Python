@@ -12,7 +12,7 @@ capitals.pop('China')  # remove a key value pair
 # capitals.clear()
 
 print(capitals['Russia'])
-print(capitals.get('Germeny'))
+print(capitals.get(values)) # getting the key Germany in the dictonary
 print(capitals.keys())  # display the keys only
 print(capitals.values())  # display the values only
 print(capitals.items())  # display all the key value pairs
